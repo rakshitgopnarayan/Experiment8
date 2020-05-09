@@ -1,5 +1,3 @@
-
-  
 from random import *
 
 record={"A":[11111111111,1111111111,'1111'],
